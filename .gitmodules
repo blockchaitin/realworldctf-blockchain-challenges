@@ -1,0 +1,15 @@
+[submodule "rwctf3rd-Re-Montagy"]
+	path = rwctf3rd-Re-Montagy
+	url = https://github.com/xhyumiracle/rwctf3rd-Re-Montagy.git
+[submodule "rwctf2018finals-AcoraidaMonica"]
+	path = rwctf2018finals-AcoraidaMonica
+	url = https://github.com/xhyumiracle/rwctf2018finals-AcoraidaMonica.git
+[submodule "rwctf2018quals-MultiSigWallet"]
+	path = rwctf2018quals-MultiSigWallet
+	url = https://github.com/xhyumiracle/rwctf2018quals-MultiSigWallet.git
+[submodule "Realworld2021-EasyDefi"]
+	path = Realworld2021-EasyDefi
+	url = https://github.com/PandaTea/Realworld2021-EasyDefi.git
+[submodule "billboard"]
+	path = billboard
+	url = https://github.com/iczc/billboard.git
